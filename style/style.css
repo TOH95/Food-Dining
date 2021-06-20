@@ -98,7 +98,7 @@ input, select {
 }
 
 .header {
-  background-image: url(../../img/headerbackground.jpg);
+  background: url("../img/headerbackground.jpg");
   background-size: cover;
   height: 500px;
 }
@@ -340,7 +340,7 @@ input, select {
   display: inline-block;
   height: 320px;
   width: 257px;
-  background-image: url(../../img/trending.jpg);
+  background-image: url(../img/trending.jpg);
   opacity: 0.8;
   background-position: center;
   border-radius: 8px;
@@ -353,7 +353,7 @@ input, select {
   display: inline-block;
   height: 320px;
   width: 257px;
-  background-image: url(../../img/fantastic.jpg);
+  background-image: url(../img/fantastic.jpg);
   opacity: 0.8;
   background-position: center;
   border-radius: 8px;
@@ -366,7 +366,7 @@ input, select {
   display: inline-block;
   height: 320px;
   width: 257px;
-  background-image: url(../../img/music.jpg);
+  background-image: url(../img/music.jpg);
   opacity: 0.9;
   background-position: center;
   border-radius: 8px;
@@ -379,7 +379,7 @@ input, select {
   display: inline-block;
   height: 320px;
   width: 257px;
-  background-image: url(../../img/chickenchop.jpg);
+  background-image: url(../img/chickenchop.jpg);
   opacity: 0.9;
   background-position: center;
   border-radius: 8px;
